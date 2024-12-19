@@ -1,0 +1,100 @@
+{
+    "horoscopes": [
+      {
+        "id": 1,
+        "name": "Aries",
+        "details": "Today will be a day of great energy and excitement. Make sure to use this to your advantage and take bold steps.",
+        "img":"https://i.pinimg.com/236x/3a/96/21/3a9621fceda4832d1b383508a1c552cb.jpg",
+        "comments": []
+      },
+      {
+        "id": 2,
+        "name": "Taurus",
+        "details": "You may feel more grounded today. Trust your instincts and focus on building long-term goals.",
+        "img":"https://i.pinimg.com/474x/a3/47/96/a34796654b034b44df401bd320584810.jpg",
+        "comments": [
+          {
+            "user": "Christine",
+            "text": "I needed this advice today!"
+          },
+          {
+            "user": "Beatrice",
+            "text": "Feeling calm and centered."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Gemini",
+        "details": "Communication will be key today. Engage in meaningful conversations and you'll find opportunities opening up.",
+        "img":"https://i.pinimg.com/474x/e8/d6/13/e8d6139a810d7177360f425e6d39b554.jpg",
+        "comments": []
+      },
+      {
+        "id": 4,
+        "name": "Pisces",
+        "details": "Trust your creative and intuitive nature, but dont let others take advantage of your kindness. Set boundaries to protect your energy and focus on bringing your dreams to reality.",
+        "img":"https://i.pinimg.com/474x/f9/56/6a/f9566a87b8b2799d0d43bdccc3448045.jpg",
+        "comments": []
+      },
+      {
+        "id": 5,
+        "name": "Scorpio",
+        "details": "Embrace your depth and intensity, but dont let it overwhelm you. Open up to others and let trust guide you. Your resilience is unmatched—use it wisely.",
+        "img":"https://i.pinimg.com/474x/dd/96/cf/dd96cf2f9ff831c05f921eea5aa26cd8.jpg",
+        "comments": []
+      },
+      {
+        "id": 6,
+        "name": "Sagitarius",
+        "details": "Pursue your thirst for knowledge and new experiences, but remember to ground yourself occasionally. Balance your wanderlust with commitments that bring deeper fulfillment.",
+        "img":"https://i.pinimg.com/474x/e6/7a/b0/e67ab0e349c05cae6acb04698b21ddd6.jpg",
+        "comments": []
+      },
+      {
+        "id": 7,
+        "name": "Aquarius",
+        "details": "Celebrate your individuality, but dont isolate yourself. Collaboration can amplify your ideas. Stay connected to your humanitarian side and bring your unique vision to life.",
+
+        "img":"https://i.pinimg.com/474x/2d/30/1c/2d301c6048e1fe340795d7a61470d3c2.jpg",
+        "comments": []
+        
+      },
+      {
+        "id": 8,
+        "name": "Cancer",
+        "details": "While caring for others is admirable, ensure your emotional boundaries are strong. Practice self-care to recharge your emotional energy. Trust your intuition—its usually spot-on.",
+        "img":"https://i.pinimg.com/474x/4f/95/3c/4f953ca91618d3975cde6a503f8736e8.jpg",
+        "comments": []
+      },
+      {
+        "id": 9,
+        "name": "Virgo",
+        "details": "Your perfectionism is a gift, but dont let it become a source of stress. Embrace the beauty of imperfection, and trust that progress is better than perfection.",
+        "img":"https://i.pinimg.com/474x/41/7b/93/417b933697be53d8bb1ed111b658f21f.jpg",
+        "comments": []
+      },
+      {
+        "id": 10,
+        "name": "Libra",
+        "details": "You thrive in harmony but dont shy away from conflict if it means staying true to yourself. Learn to say no when needed, and make decisions that reflect your values.",
+        "img":"https://i.pinimg.com/474x/27/a8/fa/27a8fa34319d53b39ee5e0ce1c63c6e1.jpg",
+        "comments": []
+      },
+      {
+        "id": 11,
+        "name": "Capricon",
+        "details": "Hard work pays off, but make time to enjoy the journey. Allow yourself to rest and avoid being overly critical of yourself or others. Seek balance between work and play.",
+        "img":"https://i.pinimg.com/474x/63/33/db/6333dbb00d472fe47a6455635026fe21.jpg",
+        "comments": []
+      },
+      {
+        "id": 12,
+        "name": "Leo",
+        "details": "Shine bright, but avoid seeking validation from others. Focus on creating for the sake of joy, not approval. Collaboration with others can help bring your big ideas to life.",
+        "img":"https://i.pinimg.com/474x/46/05/a7/4605a705d1d109ce3aa3277b7bae5027.jpg",
+        "comments": []
+      }
+    ]
+  }
+  
